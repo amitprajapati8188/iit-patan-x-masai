@@ -1,0 +1,13 @@
+{
+    "items": [
+        "Milk",
+        "Bread"
+    ],
+    "quantities": [
+        2,
+        5
+    ],
+    "subtotal": 185.0,
+    "discount": 0.0,
+    "final_total": 185.0
+}
